@@ -1,0 +1,22 @@
+#bar{
+    height: 60px;
+    background-color: #0f1111;
+}
+*{
+    color: white;
+}
+button{
+    background-color: #f3dfc5;
+}
+#logo{
+    color:#f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+::placeholder{
+    background-color: rgb(4, 35, 61);
+
+}
